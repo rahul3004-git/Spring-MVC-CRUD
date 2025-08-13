@@ -1,1 +1,1 @@
-# CRUD-using-Spring-MVC
+A simple CRUD web application built using **Spring MVC**, **Hibernate**, and **MySQL**.
